@@ -21,15 +21,17 @@
     "mongodb-ok-for-storage": {
       "description": "Helper for storing objects in MongoDB",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.10"
     },
     "oid-sort-ids": {
       "description": "sort a list of ObjectIDs or objects based on an array of ObjectIDs",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.10"
     },
     "oid-unique": {
       "description": "create a unique list of ObjectIDs from an array",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.10"
     },
     "oids-equal": {
       "description": "check if two arrays of ObjectIDs are equal",
