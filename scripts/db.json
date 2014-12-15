@@ -13,6 +13,11 @@
       "maintainer": "jongleberry",
       "node": "0.10"
     },
+    "mkue": {
+      "description": "MongoDB-based job queuing system",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
     "mongodb-next": {
       "description": "A fluent Promise and Streams2 MongoDB API wrapper",
       "maintainer": "jongleberry",

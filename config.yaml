@@ -19,6 +19,7 @@ projects:
  - oid-sort-ids
  - oid-unique
  - mongodb-ok-for-storage
+ - mkue
 
 # list of maintainers, this won't be sorted
 maintainers:
